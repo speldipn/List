@@ -1,6 +1,6 @@
 # List
 
-## Spinner
+## 1. Spinner
 1. Layout에 Spinner를 추가
 2. 코드에서 ArrayAdapter를 사용하여 UI와 연결
 3. Spinner에 Listener를 연결
@@ -21,7 +21,7 @@ spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
 });
 ````
 
-## ListView(Legacy)
+## 2. ListView(Legacy)
 * Data - < Adapter > - ListView
 1. Layout에 ListView 추가
 2. CustomAdapter 클래스를 정의
